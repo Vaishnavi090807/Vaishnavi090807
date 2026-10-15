@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
@@ -11,12 +11,14 @@
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 ![Batch](https://img.shields.io/badge/Class%20of-2028-4338CA?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-8.51%2F10-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![Portfolio](https://img.shields.io/badge/Portfolio-In%20Development-6D28D9?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vaishnavi09.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella/)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbellavaishnavi99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi090807)
 
 <br/>
@@ -39,17 +41,18 @@ Computer Science Undergraduate  ·  Backend Development  ·  AI / ML
 
 </div>
 
-I am a Computer Science and Engineering undergraduate at **Amrita Vishwa Vidyapeetham** (B.Tech, 2028 batch) with a focus on **software engineering fundamentals**, **backend development**, and **applied machine learning**. I write code in **Python, Java, C++, and JavaScript**, and I enjoy building systems end to end: from data collection and model building to APIs and user-facing applications.
+I am a Computer Science and Engineering undergraduate at **Amrita Vishwa Vidyapeetham**, graduating in 2028, with a focus on **software engineering fundamentals, backend development, and applied machine learning**. I work with Python, Java, C++, JavaScript, and SQL, and enjoy applying programming concepts to practical software projects.
 
-My projects span **machine learning with Flask**, **retrieval-augmented generation (RAG)** pipelines, **algorithmic games**, **desktop web applications**, and **multithreaded network programming in Java**. I currently work as an **ML Engineer Intern at Unified Mentor**, and I approach each project with a product mindset: understand the problem, build a working solution, and keep improving it.
+My project experience includes **machine learning applications, retrieval-augmented generation (RAG), regulatory document analysis, algorithmic games, desktop applications, and TCP client-server programming**. I am interested in building reliable backend systems and AI-powered applications while strengthening my problem-solving and software engineering skills.
 
 **Open To**
 
 | Opportunity | Focus |
 | :--- | :--- |
-| Software Engineering Internships | Backend, Full Stack |
+| Software Engineering Internships | Backend Development, Software Engineering |
 | AI / ML Internships | Applied Machine Learning, RAG Systems |
-| Open Source & Collaboration | Learning through contributing and building with others |
+| Backend Development | Python, Flask, FastAPI, REST APIs |
+| Open Source & Collaboration | Developer Tools, AI Applications |
 
 ---
 
@@ -58,36 +61,36 @@ My projects span **machine learning with Flask**, **retrieval-augmented generati
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-4338CA?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" alt="Python, Java, C++, JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4338CA?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-**Frontend**
+**Frontend & Desktop Applications**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,electron&theme=dark" alt="HTML, CSS, JavaScript, Electron" />
 </p>
 
 **Backend & APIs**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
-  <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI and Flask" />
+  <img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
 **AI / ML & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-4338CA?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=ollama&theme=dark" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Pinecone-4338CA?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Ollama-312E81?style=for-the-badge" alt="Ollama" />
 </p>
 
 **Cloud & Tooling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark" alt="AWS, Git, GitHub, Linux" />
 </p>
 
 ---
@@ -96,10 +99,10 @@ My projects span **machine learning with Flask**, **retrieval-augmented generati
 
 | Domain | Where Applied | Details |
 | :--- | :--- | :--- |
-| Machine Learning | Bank Churn Risk Scoring | Building a machine learning model to score customer churn risk and serving it through a Flask application |
-| Retrieval-Augmented Generation | SEBI Forensic Analysis Engine | RAG pipeline using Ollama embeddings and a Pinecone vector index |
-| Data Collection | SEBI Forensic Analysis Engine | Scraping workflow that gathers source documents, with AWS S3 used for storage |
-| Industry Experience | Unified Mentor | ML Engineer Internship, February 2026 onwards |
+| Machine Learning | [Bank Churn Risk Scoring](https://github.com/Vaishnavi090807/API-Integration-and-Data-Visualization) | Customer churn risk modelling and a Flask application |
+| Retrieval-Augmented Generation | [SEBI Forensic Analysis Engine](https://github.com/Vaishnavi090807/SEBI-LLM-Project) | Regulatory document analysis using RAG, Ollama embeddings, and Pinecone |
+| Data Collection & Storage | SEBI Forensic Analysis Engine | Document collection workflow and AWS S3 storage |
+| API Development | Machine Learning Applications | Flask-based application development and REST API concepts |
 
 ---
 
@@ -110,15 +113,15 @@ My projects span **machine learning with Flask**, **retrieval-augmented generati
 
 <br/>
 
-A retrieval-augmented generation project for analysing regulatory documents, combining a scraping workflow, embeddings, and a vector database.
+A retrieval-augmented generation project focused on analysing regulatory documents and supporting document-based information retrieval.
 
 | Category | Details |
 | :--- | :--- |
 | **Stack** | Python, RAG, Pinecone, Ollama embeddings, AWS S3 |
-| **Implementation** | Scraping workflow for document collection, embedding generation with Ollama, vector indexing and retrieval with Pinecone, AWS S3 for storage |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Implementation** | Document collection workflow, embedding generation, vector indexing, retrieval, and storage |
+| **Repository** | [View Project on GitHub](https://github.com/Vaishnavi090807/SEBI-LLM-Project) |
 
-The pipeline separates collection, embedding, indexing, and retrieval into distinct stages so each can be developed and tested independently.
+The project brings together document processing and semantic retrieval to support analysis of regulatory material.
 
 </details>
 
@@ -127,15 +130,15 @@ The pipeline separates collection, embedding, indexing, and retrieval into disti
 
 <br/>
 
-A machine learning application that estimates the risk of bank customers leaving, exposed through a web interface.
+A machine learning project focused on estimating the likelihood of bank customers leaving, with a Flask application for interacting with model predictions.
 
 | Category | Details |
 | :--- | :--- |
 | **Stack** | Python, Machine Learning, Flask |
-| **Implementation** | Model trained on customer data and served through a Flask application for risk scoring |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Implementation** | Customer churn modelling and application-based risk scoring |
+| **Repository** | [View Project on GitHub](https://github.com/Vaishnavi090807/API-Integration-and-Data-Visualization) |
 
-The project covers the full flow from data preparation and model training to serving predictions through an API-backed application.
+The project explores the use of machine learning to support customer retention analysis.
 
 </details>
 
@@ -144,15 +147,15 @@ The project covers the full flow from data preparation and model training to ser
 
 <br/>
 
-A game built around flood-fill algorithms and pathfinding, turning core graph and grid algorithms into interactive gameplay.
+An algorithmic game applying grid traversal, flood-fill techniques, and pathfinding concepts to interactive gameplay.
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | Flood-fill algorithms, pathfinding |
-| **Implementation** | Game mechanics driven by grid traversal and path search |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Focus** | Graph Algorithms, Flood Fill, Pathfinding |
+| **Implementation** | Grid-based game mechanics and algorithmic decision-making |
+| **Repository** | [View Project on GitHub](https://github.com/Chilla-Pavan/FloodFlenzy_Case2) |
 
-The project applies data structures and algorithms in a practical, visual setting.
+The project connects data structures and algorithms to a practical game environment.
 
 </details>
 
@@ -161,15 +164,15 @@ The project applies data structures and algorithms in a practical, visual settin
 
 <br/>
 
-A book store application built with web technologies and packaged as a desktop app.
+A book store application built using web technologies and Electron for a desktop application experience.
 
 | Category | Details |
 | :--- | :--- |
 | **Stack** | HTML, CSS, JavaScript, Electron |
-| **Implementation** | Front-end book store interface running as an Electron desktop application |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Implementation** | Web-based interface packaged as a desktop application |
+| **Repository** | [View Project on GitHub](https://github.com/Nandot006/online-bookstore) |
 
-The project covers interface design and packaging a web application for desktop.
+The project explores frontend development and desktop application packaging.
 
 </details>
 
@@ -178,29 +181,29 @@ The project covers interface design and packaging a web application for desktop.
 
 <br/>
 
-A backend and AI assignment centred on a point-of-sale (POS) system.
+A point-of-sale assignment involving backend and AI-related development.
 
 | Category | Details |
 | :--- | :--- |
-| **Focus** | Backend development, AI |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Focus** | Backend Development, AI |
+| **Repository** | [View Project on GitHub](https://github.com/Vaishnavi090807/second-origin-pos-backend) |
 
 </details>
 
 <details>
-<summary><b>Java TCP Socket Programming</b></summary>
+<summary><b>Real-Time Chat Application</b></summary>
 
 <br/>
 
-Client-server networking work in Java using TCP sockets and multithreading.
+A Java networking project focused on real-time client-server communication using TCP sockets and multithreading.
 
 | Category | Details |
 | :--- | :--- |
-| **Stack** | Java, TCP sockets, multithreading |
-| **Implementation** | Multithreaded client-server communication over TCP |
-| **Repository** | [Browse repositories](https://github.com/Vaishnavi090807?tab=repositories) |
+| **Stack** | Java, TCP Sockets, Multithreading |
+| **Implementation** | Client-server communication and concurrent connection handling |
+| **Repository** | [View Project on GitHub](https://github.com/saikrishna10052007/REAL-TIME-CHAT-APPLICATION) |
 
-The work builds a foundation in concurrency and network programming.
+The project explores network communication and concurrent programming fundamentals.
 
 </details>
 
@@ -209,26 +212,29 @@ The work builds a foundation in concurrency and network programming.
 ## Experience
 
 ### ML Engineer Intern · Unified Mentor
-`February 2026 – Present`
 
-Machine learning engineering internship focused on applying ML techniques to practical problems.
+An ongoing machine learning internship involving practical ML engineering work.
 
-**Scope of work**
+**Focus Areas**
 
-- Machine learning engineering internship, ongoing since February 2026
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square)
+- Applying machine learning techniques to practical problems.
+- Developing skills in model building and ML application workflows.
 
 ### Python Programming Intern · CODTECH
+
 `May 2025 – June 2025`
 
-Python programming internship focused on building practical programming skills.
+Python programming internship involving practical programming and application development.
 
-**Scope of work**
+**Scope of Work**
 
-- Python programming internship completed over May and June 2025
+- Worked on Python programming tasks and application development.
+- Explored NLP and REST API-based chatbot development.
+- Worked on an ML-based spam detector and a weather dashboard using API data.
 
 ![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4338CA?style=flat-square)
 
 ---
 
@@ -238,9 +244,11 @@ Python programming internship focused on building practical programming skills.
 
 | Recognition | Details |
 | :--- | :--- |
-| **Academic Program** | B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham, 2028 batch |
-| **Internships** | Python Programming Intern at CODTECH and ML Engineer Intern at Unified Mentor |
-| **Project Work** | Machine learning, RAG, algorithmic game, desktop application, and networking projects |
+| **Research Publication — Accepted** | Ramya, G.R., Pabolu Amrutha Sai Spandana, Paladi, I., Sabbella, V. and Mallidi Sai Krishna Reddy (2026). “AI-driven intelligent automation for encrypted traffic pattern recognition in IoT-enabled networked systems.” 6th International Conference on Computer Vision and Robotics (CVR 2026). Accepted for publication. |
+| **Research Publication** | Nivethitha, B., Swetha, M., Manideep, A., Sabbella, V., Krithikk, T., Satish, A. and Nair, A.R. (2026). “Water salinity and its impact in Kalpar Village: A participatory rural appraisal approach.” Industrial Ecology and Environmental Management Book Series, Springer Nature. |
+| **Academic Program** | B.Tech in Computer Science and Engineering, Amrita Vishwa Vidyapeetham, 2028 batch |
+| **Academic Performance** | GPA: 8.51/10 |
+| **Project Work** | Machine learning, RAG, algorithmic game development, desktop applications, and network programming |
 
 </div>
 
@@ -248,11 +256,30 @@ Python programming internship focused on building practical programming skills.
 
 ## Certifications
 
-<div align="center">
+**Goldman Sachs**
 
-Certifications will be listed here as they are earned and verified.
+[![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Risk%20Job%20Simulation-4C1D95?style=for-the-badge)](https://www.goldmansachs.com/)
 
-</div>
+<sub>May 2026</sub>
+
+**Deloitte**
+
+[![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge)](https://www.deloitte.com/)
+
+<sub>May 2026</sub>
+
+**HackerRank**
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Basics-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+<sub>Python (Basics) Assessment · May 2026</sub>
+
+**Udemy**
+
+[![Udemy Python](https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+[![Udemy DSA](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+
+<sub>Python · February 2026 | Data Structures & Algorithms · May 2026</sub>
 
 ---
 
@@ -273,12 +300,12 @@ Certifications will be listed here as they are earned and verified.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi090807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi090807&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi090807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi090807&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" alt="Most used programming languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vaishnavi090807&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=818CF8" />
+<img src="https://streak-stats.demolab.com?user=Vaishnavi090807&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=818CF8" alt="GitHub contribution streak" />
 
 </div>
 
@@ -288,7 +315,7 @@ Certifications will be listed here as they are earned and verified.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
@@ -298,7 +325,7 @@ Certifications will be listed here as they are earned and verified.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi090807&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi090807&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -308,7 +335,7 @@ Certifications will be listed here as they are earned and verified.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vaishnavi090807/Vaishnavi090807/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Vaishnavi090807/Vaishnavi090807/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -318,18 +345,24 @@ Certifications will be listed here as they are earned and verified.
 
 ```yaml
 Learning:
+  - Data Structures and Algorithms
+  - Backend development and REST APIs
   - Machine learning engineering
-  - Retrieval-augmented generation pipelines
-  - Backend development with Flask and FastAPI
+  - Retrieval-Augmented Generation
+
 Building:
   - Personal portfolio website
-  - Machine learning and RAG projects
+  - Machine learning applications
+  - Regulatory document analysis tools
+
 Exploring:
   - Cloud fundamentals on AWS
-  - Open source contributions
+  - AI-powered applications
+  - Open-source collaboration
+
 Open To:
   - Software Engineering Internships
-  - Backend Internships
+  - Backend Development Internships
   - AI / ML Internships
 ```
 
@@ -339,9 +372,10 @@ Open To:
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Gmail-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbellavaishnavi99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavi--sabbella-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi090807-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi090807)
-![Portfolio](https://img.shields.io/badge/Portfolio-In%20Development-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vaishnavi09.vercel.app/)
 
 </div>
 
@@ -349,8 +383,8 @@ Open To:
 
 <div align="center">
 
-*"Learn deliberately, build carefully, and keep improving."*
+*“Learn deliberately, build carefully, and keep improving.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" alt="Purple gradient footer banner" />
 
 </div>
