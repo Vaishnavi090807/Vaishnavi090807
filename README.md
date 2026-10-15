@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:4338CA&height=240&section=header&text=Sabbella%20Vaishnavi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20-%20Backend%20and%20AI%20%2F%20ML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sabbella Vaishnavi" />
 
 <a href="https://github.com/Vaishnavi090807">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+Development+with+Python+and+Java;Machine+Learning+and+RAG+Systems;Seeking+Software+Engineering+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Backend+Development+with+Python+and+Java;Machine+Learning+and+RAG+Systems;Seeking+Software+Engineering+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,12 +12,12 @@
 ![Amrita](https://img.shields.io/badge/Amrita%20Vishwa%20Vidyapeetham-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 ![Batch](https://img.shields.io/badge/Class%20of-2028-4338CA?style=for-the-badge)
 ![GPA](https://img.shields.io/badge/GPA-8.51%2F10-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vaishnavi09.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella-606799357/)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbellavaishnavi99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi090807)
 
@@ -380,7 +380,7 @@ Open To:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbellavaishnavi99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaishnavi--sabbella-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Sabbella-4338CA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-sabbella-606799357/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaishnavi090807-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi090807)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vaishnavi09.vercel.app/)
 
@@ -392,6 +392,6 @@ Open To:
 
 *“Learn deliberately, build carefully, and keep improving.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=140&section=footer" width="100%" alt="Purple gradient footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:4338CA&height=140&section=footer" width="100%" alt="Purple gradient footer banner" />
 
 </div>
