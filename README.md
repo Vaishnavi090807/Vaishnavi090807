@@ -258,26 +258,26 @@ Python programming internship involving practical programming and application de
 
 **Goldman Sachs**
 
-[![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs-Risk%20Job%20Simulation-4C1D95?style=for-the-badge)](https://www.goldmansachs.com/)
+[![Goldman Sachs]([https://img.shields.io/badge/Goldman%20Sachs-Risk%20Job%20Simulation-4C1D95?style=for-the-badge)](https://www.goldmansachs.com/](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_6a0ff6914d281cf98fa6c22d_1779464665982_completion_certificate.pdf))
 
 <sub>May 2026</sub>
 
 **Deloitte**
 
-[![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge)](https://www.deloitte.com/)
+[![Deloitte]([https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge)](https://www.deloitte.com/](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a0ff6914d281cf98fa6c22d_1782714660453_completion_certificate.pdf))
 
 <sub>May 2026</sub>
 
 **HackerRank**
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Python%20Basics-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![HackerRank]([https://img.shields.io/badge/HackerRank-Python%20Basics-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/](https://www.hackerrank.com/certificates/4df04306e1fb))
 
 <sub>Python (Basics) Assessment · May 2026</sub>
 
 **Udemy**
 
-[![Udemy Python](https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
-[![Udemy DSA](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
+[![Udemy Python]([https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/))
+[![Udemy DSA]([https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/))
 
 <sub>Python · February 2026 | Data Structures & Algorithms · May 2026</sub>
 
@@ -313,21 +313,16 @@ Python programming internship involving practical programming and application de
 
 ## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 ---
 
 ## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi090807&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi090807&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity" />
+</p>
 
 ---
 
