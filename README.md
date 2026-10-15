@@ -256,30 +256,51 @@ Python programming internship involving practical programming and application de
 
 ## Certifications
 
+<p align="center">
+
 **Goldman Sachs**
 
-[![Goldman Sachs]([https://img.shields.io/badge/Goldman%20Sachs-Risk%20Job%20Simulation-4C1D95?style=for-the-badge)](https://www.goldmansachs.com/](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_6a0ff6914d281cf98fa6c22d_1779464665982_completion_certificate.pdf))
+[![Goldman Sachs - Risk Job Simulation](https://img.shields.io/badge/Goldman%20Sachs-Risk%20Job%20Simulation-4C1D95?style=for-the-badge)](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_6a0ff6914d281cf98fa6c22d_1779464665982_completion_certificate.pdf)
 
-<sub>May 2026</sub>
+<sub>Risk Job Simulation · May 2026</sub>
 
 **Deloitte**
 
-[![Deloitte]([https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge)](https://www.deloitte.com/](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a0ff6914d281cf98fa6c22d_1782714660453_completion_certificate.pdf))
+[![Deloitte - Data Analytics Job Simulation](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6D28D9?style=for-the-badge)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a0ff6914d281cf98fa6c22d_1782714660453_completion_certificate.pdf)
 
-<sub>May 2026</sub>
+<sub>Data Analytics Job Simulation · May 2026</sub>
 
 **HackerRank**
 
-[![HackerRank]([https://img.shields.io/badge/HackerRank-Python%20Basics-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/](https://www.hackerrank.com/certificates/4df04306e1fb))
+[![HackerRank - Python Basics](https://img.shields.io/badge/HackerRank-Python%20Basics-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/4df04306e1fb)
 
 <sub>Python (Basics) Assessment · May 2026</sub>
 
 **Udemy**
 
-[![Udemy Python]([https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/))
-[![Udemy DSA]([https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/))
+[![Udemy - Python](https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/)
+
+[![Udemy - Data Structures and Algorithms](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/)
 
 <sub>Python · February 2026 | Data Structures & Algorithms · May 2026</sub>
+
+</p>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-vaishnavi__sabbella-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaishnavi_sabbella/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-vaishnavi0908-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vaishnavi0908/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-sabbellavaishna1-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sabbellavaishna1)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-svaishnavi0908-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/svaishnavi0908)
+
+</div>
 
 ---
 
