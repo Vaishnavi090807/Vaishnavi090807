@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSAize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Vaishnavi090807">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+Development+with+Python+and+Java;Machine+Learning+and+RAG+Systems;Seeking+Software+Engineering+Internships" alt="Typing SVG" />
@@ -334,16 +334,21 @@ Python programming internship involving practical programming and application de
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub Trophies" />
+
+</div>
+
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavi090807&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity" />
-</p>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/Vaishnavi090807" alt="GitHub Contribution Activity" width="100%" />
+
+</div>
 
 ---
 
