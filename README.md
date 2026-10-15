@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSAize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Sabbella%20Vaishnavi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%2FML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/Vaishnavi090807">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+Development+with+Python+and+Java;Machine+Learning+and+RAG+Systems;Seeking+Software+Engineering+Internships" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi090807&label=Profile%20Views&color=6D28D9&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Vaishnavi090807?label=Followers&style=flat-square&color=4338CA&logo=github)
-![Stars](https://img.shields.io/github/stars/Vaishnavi090807?label=Stars&style=flat-square&color=7C3AED&logo=github)
+![Stars](https://img.shields.io/github/stars/Vaishnavi090807/SEBI-LLM-Project?label=Featured%20Repo%20Stars&style=flat-square&color=7C3AED&logo=github)
 
 </div>
 
@@ -212,6 +212,7 @@ The project explores network communication and concurrent programming fundamenta
 ## Experience
 
 ### ML Engineer Intern · Unified Mentor
+`February 2026 – Present`
 
 An ongoing machine learning internship involving practical ML engineering work.
 
@@ -221,7 +222,6 @@ An ongoing machine learning internship involving practical ML engineering work.
 - Developing skills in model building and ML application workflows.
 
 ### Python Programming Intern · CODTECH
-
 `May 2025 – June 2025`
 
 Python programming internship involving practical programming and application development.
@@ -256,7 +256,7 @@ Python programming internship involving practical programming and application de
 
 ## Certifications
 
-<p align="center">
+<div align="center">
 
 **Goldman Sachs**
 
@@ -280,25 +280,9 @@ Python programming internship involving practical programming and application de
 
 [![Udemy - Python](https://img.shields.io/badge/Udemy-Python-4C1D95?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/)
 
-[![Udemy - Data Structures and Algorithms](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-6b751de6-6a06-43a5-a7af-19dd6e6a3452/)
+![Udemy - Data Structures and Algorithms](https://img.shields.io/badge/Udemy-Data%20Structures%20%26%20Algorithms-6D28D9?style=for-the-badge&logo=udemy&logoColor=white)
 
 <sub>Python · February 2026 | Data Structures & Algorithms · May 2026</sub>
-
-</p>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-vaishnavi__sabbella-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaishnavi_sabbella/)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-vaishnavi0908-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vaishnavi0908/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-sabbellavaishna1-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sabbellavaishna1)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-svaishnavi0908-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/svaishnavi0908)
 
 </div>
 
@@ -336,7 +320,9 @@ Python programming internship involving practical programming and application de
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnavi090807&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12" alt="GitHub Trophies" />
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaishnavi090807&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=4C1D95&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Vaishnavi090807?label=Followers&style=for-the-badge&color=6D28D9&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaishnavi090807&query=%24.following&label=Following&style=for-the-badge&color=4338CA&logo=github&logoColor=white)
 
 </div>
 
