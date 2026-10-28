@@ -211,16 +211,6 @@ The project explores network communication and concurrent programming fundamenta
 
 ## Experience
 
-### ML Engineer Intern · Unified Mentor
-`February 2026 – Present`
-
-An ongoing machine learning internship involving practical ML engineering work.
-
-**Focus Areas**
-
-- Applying machine learning techniques to practical problems.
-- Developing skills in model building and ML application workflows.
-
 ### Python Programming Intern · CODTECH
 `May 2025 – June 2025`
 
